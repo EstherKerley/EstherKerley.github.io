@@ -1,2 +1,4 @@
 # EstherKerley.github.io
-My website
+This is my personal website
+## About
+Student, Nerd, Anti-Isaac
