@@ -8,5 +8,9 @@ categories: GtG
 GtG
 ====
 
+<<<<<<< HEAD
 Got to Game (GtG) is a Gaming community.
 ![Plagiarism](/assets/img/posts/Plagiarism.jpg)
+=======
+Got to Game (GtG) is a Gaming cumunity.
+>>>>>>> parent of 7d7f99f... *Community
