@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "GtG"
+title:  "josiah is great"
 date:   2016-06-16 17:50:00
 categories: GtG
 ---
@@ -8,9 +8,4 @@ categories: GtG
 GtG
 ====
 
-<<<<<<< HEAD
-Got to Game (GtG) is a Gaming community.
-![Plagiarism](/assets/img/posts/Plagiarism.jpg)
-=======
-Got to Game (GtG) is a Gaming cumunity.
->>>>>>> parent of 7d7f99f... *Community
+Got to Game (GtG) is a Gaming community, in which the Kerley family.
